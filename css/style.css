@@ -1,0 +1,19 @@
+html,
+body,
+#screen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#screen {
+  border: 10px solid #ccc;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  width: 100%;
+  height: 100%;
+  background: #e7df80;
+}
